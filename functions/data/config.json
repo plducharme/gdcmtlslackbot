@@ -1,8 +1,0 @@
-{
-    "apiKey": "AIzaSyCUQxyFDQVCfO8EL-NnATtZ9CL9EhSG7LM",
-    "authDomain": "gdcmtlslackbot.firebaseapp.com",
-    "databaseURL": "https://gdcmtlslackbot.firebaseio.com",
-    "projectId": "gdcmtlslackbot",
-    "storageBucket": "gdcmtlslackbot.appspot.com",
-    "messagingSenderId": "362594975527"
-}
